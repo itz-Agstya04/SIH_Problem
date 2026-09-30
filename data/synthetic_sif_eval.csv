@@ -1,0 +1,81 @@
+report_id,site,activity,report_type,raw_description,human_label
+POS-000,Site A,Maintenance,Near miss,worker entered energized panel while loto was not verified and exposure was present sample 0,sif_potential
+POS-001,Site A,Maintenance,Near miss,technician near live panel without isolation and barrier failure during maintenance sample 1,sif_potential
+POS-002,Site A,Maintenance,Near miss,"lifting operation with suspended load, line of fire, inadequate guarding and worker exposure sample 2",sif_potential
+POS-003,Site A,Maintenance,Near miss,hot work with sparks near flammable material and no permit to work sample 3,sif_potential
+POS-004,Site A,Maintenance,Near miss,reversing vehicle struck worker in line of fire after spotter was absent sample 4,sif_potential
+POS-005,Site A,Maintenance,Near miss,confined space entry with hazardous atmosphere and gas testing not performed sample 5,sif_potential
+POS-006,Site A,Maintenance,Near miss,fall from height while working on scaffold and guardrail failed sample 6,sif_potential
+POS-007,Site A,Maintenance,Near miss,electrical shock from wrong breaker isolated and verification not performed sample 7,sif_potential
+POS-008,Site A,Maintenance,Near miss,pressure release from hydraulic line near technician with barrier bypassed sample 8,sif_potential
+POS-009,Site A,Maintenance,Near miss,crane suspended load over worker with missing barricade and exposed area sample 9,sif_potential
+POS-010,Site A,Maintenance,Near miss,worker entered energized panel while loto was not verified and exposure was present sample 10,sif_potential
+POS-011,Site A,Maintenance,Near miss,technician near live panel without isolation and barrier failure during maintenance sample 11,sif_potential
+POS-012,Site A,Maintenance,Near miss,"lifting operation with suspended load, line of fire, inadequate guarding and worker exposure sample 12",sif_potential
+POS-013,Site A,Maintenance,Near miss,hot work with sparks near flammable material and no permit to work sample 13,sif_potential
+POS-014,Site A,Maintenance,Near miss,reversing vehicle struck worker in line of fire after spotter was absent sample 14,sif_potential
+POS-015,Site A,Maintenance,Near miss,confined space entry with hazardous atmosphere and gas testing not performed sample 15,sif_potential
+POS-016,Site A,Maintenance,Near miss,fall from height while working on scaffold and guardrail failed sample 16,sif_potential
+POS-017,Site A,Maintenance,Near miss,electrical shock from wrong breaker isolated and verification not performed sample 17,sif_potential
+POS-018,Site A,Maintenance,Near miss,pressure release from hydraulic line near technician with barrier bypassed sample 18,sif_potential
+POS-019,Site A,Maintenance,Near miss,crane suspended load over worker with missing barricade and exposed area sample 19,sif_potential
+POS-020,Site A,Maintenance,Near miss,worker entered energized panel while loto was not verified and exposure was present sample 20,sif_potential
+POS-021,Site A,Maintenance,Near miss,technician near live panel without isolation and barrier failure during maintenance sample 21,sif_potential
+POS-022,Site A,Maintenance,Near miss,"lifting operation with suspended load, line of fire, inadequate guarding and worker exposure sample 22",sif_potential
+POS-023,Site A,Maintenance,Near miss,hot work with sparks near flammable material and no permit to work sample 23,sif_potential
+POS-024,Site A,Maintenance,Near miss,reversing vehicle struck worker in line of fire after spotter was absent sample 24,sif_potential
+POS-025,Site A,Maintenance,Near miss,confined space entry with hazardous atmosphere and gas testing not performed sample 25,sif_potential
+POS-026,Site A,Maintenance,Near miss,fall from height while working on scaffold and guardrail failed sample 26,sif_potential
+POS-027,Site A,Maintenance,Near miss,electrical shock from wrong breaker isolated and verification not performed sample 27,sif_potential
+POS-028,Site A,Maintenance,Near miss,pressure release from hydraulic line near technician with barrier bypassed sample 28,sif_potential
+POS-029,Site A,Maintenance,Near miss,crane suspended load over worker with missing barricade and exposed area sample 29,sif_potential
+POS-030,Site A,Maintenance,Near miss,worker entered energized panel while loto was not verified and exposure was present sample 30,sif_potential
+POS-031,Site A,Maintenance,Near miss,technician near live panel without isolation and barrier failure during maintenance sample 31,sif_potential
+POS-032,Site A,Maintenance,Near miss,"lifting operation with suspended load, line of fire, inadequate guarding and worker exposure sample 32",sif_potential
+POS-033,Site A,Maintenance,Near miss,hot work with sparks near flammable material and no permit to work sample 33,sif_potential
+POS-034,Site A,Maintenance,Near miss,reversing vehicle struck worker in line of fire after spotter was absent sample 34,sif_potential
+POS-035,Site A,Maintenance,Near miss,confined space entry with hazardous atmosphere and gas testing not performed sample 35,sif_potential
+POS-036,Site A,Maintenance,Near miss,fall from height while working on scaffold and guardrail failed sample 36,sif_potential
+POS-037,Site A,Maintenance,Near miss,electrical shock from wrong breaker isolated and verification not performed sample 37,sif_potential
+POS-038,Site A,Maintenance,Near miss,pressure release from hydraulic line near technician with barrier bypassed sample 38,sif_potential
+POS-039,Site A,Maintenance,Near miss,crane suspended load over worker with missing barricade and exposed area sample 39,sif_potential
+NEG-000,Site B,Administration,Observation,routine housekeeping inspection completed with no hazard exposure sample 0,not_sif_potential
+NEG-001,Site B,Administration,Observation,office administrative review and paperwork update completed safely sample 1,not_sif_potential
+NEG-002,Site B,Administration,Observation,general plant walkdown identified no unsafe act or electrical energy sample 2,not_sif_potential
+NEG-003,Site B,Administration,Observation,standard toolbox talk delivered and work completed without incident sample 3,not_sif_potential
+NEG-004,Site B,Administration,Observation,routine equipment check with control room observation and no exposure sample 4,not_sif_potential
+NEG-005,Site B,Administration,Observation,warehouse inventory task with no energized equipment and no line of fire sample 5,not_sif_potential
+NEG-006,Site B,Administration,Observation,daily inspection of office area with no hazardous work sample 6,not_sif_potential
+NEG-007,Site B,Administration,Observation,scheduled maintenance planning meeting with no field work sample 7,not_sif_potential
+NEG-008,Site B,Administration,Observation,inspection of storage racks with no moving equipment or barriers failed sample 8,not_sif_potential
+NEG-009,Site B,Administration,Observation,document control review and training record update completed without exposure sample 9,not_sif_potential
+NEG-010,Site B,Administration,Observation,routine housekeeping inspection completed with no hazard exposure sample 10,not_sif_potential
+NEG-011,Site B,Administration,Observation,office administrative review and paperwork update completed safely sample 11,not_sif_potential
+NEG-012,Site B,Administration,Observation,general plant walkdown identified no unsafe act or electrical energy sample 12,not_sif_potential
+NEG-013,Site B,Administration,Observation,standard toolbox talk delivered and work completed without incident sample 13,not_sif_potential
+NEG-014,Site B,Administration,Observation,routine equipment check with control room observation and no exposure sample 14,not_sif_potential
+NEG-015,Site B,Administration,Observation,warehouse inventory task with no energized equipment and no line of fire sample 15,not_sif_potential
+NEG-016,Site B,Administration,Observation,daily inspection of office area with no hazardous work sample 16,not_sif_potential
+NEG-017,Site B,Administration,Observation,scheduled maintenance planning meeting with no field work sample 17,not_sif_potential
+NEG-018,Site B,Administration,Observation,inspection of storage racks with no moving equipment or barriers failed sample 18,not_sif_potential
+NEG-019,Site B,Administration,Observation,document control review and training record update completed without exposure sample 19,not_sif_potential
+NEG-020,Site B,Administration,Observation,routine housekeeping inspection completed with no hazard exposure sample 20,not_sif_potential
+NEG-021,Site B,Administration,Observation,office administrative review and paperwork update completed safely sample 21,not_sif_potential
+NEG-022,Site B,Administration,Observation,general plant walkdown identified no unsafe act or electrical energy sample 22,not_sif_potential
+NEG-023,Site B,Administration,Observation,standard toolbox talk delivered and work completed without incident sample 23,not_sif_potential
+NEG-024,Site B,Administration,Observation,routine equipment check with control room observation and no exposure sample 24,not_sif_potential
+NEG-025,Site B,Administration,Observation,warehouse inventory task with no energized equipment and no line of fire sample 25,not_sif_potential
+NEG-026,Site B,Administration,Observation,daily inspection of office area with no hazardous work sample 26,not_sif_potential
+NEG-027,Site B,Administration,Observation,scheduled maintenance planning meeting with no field work sample 27,not_sif_potential
+NEG-028,Site B,Administration,Observation,inspection of storage racks with no moving equipment or barriers failed sample 28,not_sif_potential
+NEG-029,Site B,Administration,Observation,document control review and training record update completed without exposure sample 29,not_sif_potential
+NEG-030,Site B,Administration,Observation,routine housekeeping inspection completed with no hazard exposure sample 30,not_sif_potential
+NEG-031,Site B,Administration,Observation,office administrative review and paperwork update completed safely sample 31,not_sif_potential
+NEG-032,Site B,Administration,Observation,general plant walkdown identified no unsafe act or electrical energy sample 32,not_sif_potential
+NEG-033,Site B,Administration,Observation,standard toolbox talk delivered and work completed without incident sample 33,not_sif_potential
+NEG-034,Site B,Administration,Observation,routine equipment check with control room observation and no exposure sample 34,not_sif_potential
+NEG-035,Site B,Administration,Observation,warehouse inventory task with no energized equipment and no line of fire sample 35,not_sif_potential
+NEG-036,Site B,Administration,Observation,daily inspection of office area with no hazardous work sample 36,not_sif_potential
+NEG-037,Site B,Administration,Observation,scheduled maintenance planning meeting with no field work sample 37,not_sif_potential
+NEG-038,Site B,Administration,Observation,inspection of storage racks with no moving equipment or barriers failed sample 38,not_sif_potential
+NEG-039,Site B,Administration,Observation,document control review and training record update completed without exposure sample 39,not_sif_potential

@@ -1,0 +1,77 @@
+{
+  "source": "C:\\Users\\agast\\SIH_Problem\\External_dataset.json",
+  "total_records": 530,
+  "accident_type_counts": {
+    "fall": 215,
+    "caught-in/between": 118,
+    "struck-by": 117,
+    "electrocution": 80
+  },
+  "fatality_signal": {
+    "count": 342,
+    "fraction": 0.6453
+  },
+  "bayesian_model": {
+    "model_name": "pgmpy-discrete-bayesian-sif",
+    "threshold": 0.5,
+    "average_score": 0.3514,
+    "min_score": 0.1923,
+    "max_score": 0.8077,
+    "high_risk_count": 239,
+    "high_risk_fraction": 0.4509,
+    "prediction_distribution": {
+      "not_sif_potential": 291,
+      "sif_potential": 239
+    },
+    "by_accident_type": {
+      "caught-in/between": {
+        "count": 118,
+        "mean_score": 0.3201,
+        "high_risk_count": 44,
+        "high_risk_fraction": 0.3729
+      },
+      "electrocution": {
+        "count": 80,
+        "mean_score": 0.5308,
+        "high_risk_count": 70,
+        "high_risk_fraction": 0.875
+      },
+      "fall": {
+        "count": 215,
+        "mean_score": 0.2896,
+        "high_risk_count": 62,
+        "high_risk_fraction": 0.2884
+      },
+      "struck-by": {
+        "count": 117,
+        "mean_score": 0.3738,
+        "high_risk_count": 63,
+        "high_risk_fraction": 0.5385
+      }
+    }
+  },
+  "supervised_model": {
+    "trained": true,
+    "prediction_ready": false,
+    "model_version": "tfidf-logistic-sif-20260930T010430Z-0c208afa5832",
+    "metrics": {
+      "evaluation": "stratified cross-validation; random folds, not temporal or site holdout",
+      "folds": 5,
+      "sample_count": 30,
+      "class_counts": {
+        "not_sif_potential": 20,
+        "sif_potential": 10
+      },
+      "threshold": 0.5,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "accuracy": 0.6667,
+      "roc_auc": 0.5,
+      "average_precision": 0.3333,
+      "brier_score": 0.2258,
+      "score_interpretation": "Model score is not calibrated and must not be interpreted as a probability."
+    },
+    "message": "Blocked: supervised model needs reviewed data with skill above a no-skill baseline before it can be used for external validation."
+  }
+}
